@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/aliaksandr-salauyou-1a5054204/">Aliaksandr</a> </h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://www.linkedin.com/in/aliaksandr-salauyou-1a5054204/">Aliaksandr</a> </h1>
 <h3 align="center">QA/AQA engineer</h3>
 
 ### <h3 align="center">Education</h4>
