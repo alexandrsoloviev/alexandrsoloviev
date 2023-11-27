@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/aliaksandr-salauyou-1a5054204/">Aliaksandr</a> </h1>
+<h3 align="center">QA/AQA engineer</h3>
 
-<!--
-**alexandrsoloviev/alexandrsoloviev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <h3 align="center">Education</h4>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%" border='0'>
+   <tr> 
+    </td><td valign="middle">IT STEP  Academy </br></br>РУЧНОЕ И АВТОМАТИЗИРОВАННОЕ ТЕСТИРОВАНИЕ ПО</br></br>08.20 - 04.21.</td><td width="30%" valign="bottom"><img src="images/itstep.png"></tr>
+    <tr><td valign="middle">TeachMeSkills</br></br>АВТОМАТИЗИРОВАННОЕ ТЕСТИРОВАНИЕ НА JAVA</br></br>09.21 - 03.22.</td><td width="30%" valign="bottom"><img src="images/Aliaksandr Salauyou-01.jpg"></td>
+   </tr>
+  </table>
+  </br>
+
+### Connect with me:
+<p align="left">
+<a href="https://t.me/SolovyovAlexandr" target="blank"><img align="center" src="images/telega.svg" alt="solovievalexandr" height="40" width="40" /></a>
+<a href="https://vk.com/solovyov193" target="blank"><img align="center" src="images/VK.com-logo.svg" alt="solovievalexandr" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/aliaksandr-salauyou-1a5054204/" target="blank"><img align="center" src="images/LinkedIn_icon.svg.png" alt="solovievalexandr" height="40" width="40" /></a>
+</p>
+
+![Alexandr's github stats](https://github-readme-stats.vercel.app/api?username=alexandrsoloviev&show_icons=true&theme=radical)
+
+### Tools:
+<p align="left"> 
+<img src="images/tools/java.svg" alt="java" width="70" height="70"/>
+<img src="images/tools/selenium.svg" alt="selenium" width="70" height="70"/>
+<img src="images/tools/selenide-logo.svg" alt="selenide" width="70" height="70"/>
+<img src="images/tools/maven.svg" alt="maven" width="70" height="70"/>
+<img src="images/tools/gradle.svg" alt="gradle" width="70" height="70"/>
+<img src="images/tools/junit5.svg" alt="junit5" width="70" height="70"/>
+<img src="images/tools/testng" alt="testng" width="70" height="70"/>
+<img src="images/tools/rest-assured-logo.svg" alt="rest-assured" width="70" height="70"/>
+<img src="images/tools/allure-Report-logo.svg" alt="allure" width="70" height="70"/>
+<img src="images/tools/IDEA-logo.svg" alt="intellij IDEA" width="70" height="70"/>
+<img src="images/tools/selenoid-logo.svg" alt="selenoid" width="70" height="70"/>
+<img src="images/tools/git-logo.svg" alt="git" width="70" height="70"/>
+<img src="images/tools/github-icon.svg" alt="github" width="70" height="70"/>
+<img src="images/tools/jenkins-logo.svg" alt="jenkins" width="70" height="70"/>
+<img src="images/tools/postman-icon.svg" alt="postman" width="70" height="70"/>
+<img src="images/tools/jira.svg" alt="jira" width="70" height="70"/>
+<img src="images/tools/logo-google-android-studio-2.svg" alt="android-studio" width="70" height="70"/>
+<img src="images/tools/browserstack.svg" alt="browserstack" width="70" height="70"/>
+</p>
