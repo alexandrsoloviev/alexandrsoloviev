@@ -23,22 +23,22 @@
 
 ### Tools:
 <p align="left"> 
-<img src="images/tools/java.svg" alt="java" width="70" height="70"/>
-<img src="images/tools/selenium.svg" alt="selenium" width="70" height="70"/>
-<img src="images/tools/selenide-logo.svg" alt="selenide" width="70" height="70"/>
-<img src="images/tools/maven.svg" alt="maven" width="70" height="70"/>
-<img src="images/tools/gradle.svg" alt="gradle" width="70" height="70"/>
-<img src="images/tools/junit5.svg" alt="junit5" width="70" height="70"/>
-<img src="images/tools/testng" alt="testng" width="70" height="70"/>
-<img src="images/tools/rest-assured-logo.svg" alt="rest-assured" width="70" height="70"/>
-<img src="images/tools/allure-Report-logo.svg" alt="allure" width="70" height="70"/>
-<img src="images/tools/IDEA-logo.svg" alt="intellij IDEA" width="70" height="70"/>
-<img src="images/tools/selenoid-logo.svg" alt="selenoid" width="70" height="70"/>
-<img src="images/tools/git-logo.svg" alt="git" width="70" height="70"/>
-<img src="images/tools/github-icon.svg" alt="github" width="70" height="70"/>
-<img src="images/tools/jenkins-logo.svg" alt="jenkins" width="70" height="70"/>
-<img src="images/tools/postman-icon.svg" alt="postman" width="70" height="70"/>
-<img src="images/tools/jira.svg" alt="jira" width="70" height="70"/>
-<img src="images/tools/logo-google-android-studio-2.svg" alt="android-studio" width="70" height="70"/>
-<img src="images/tools/browserstack.svg" alt="browserstack" width="70" height="70"/>
+<img src="images/tools/java.svg" title="java" width="70" height="70"/>
+<img src="images/tools/selenium.svg" title="selenium" width="70" height="70"/>
+<img src="images/tools/selenide-logo.svg" title="selenide" width="70" height="70"/>
+<img src="images/tools/maven.svg" title="maven" width="70" height="70"/>
+<img src="images/tools/gradle.svg" title="gradle" width="70" height="70"/>
+<img src="images/tools/junit5.svg" title="junit5" width="70" height="70"/>
+<img src="images/tools/testng" title="testng" width="70" height="70"/>
+<img src="images/tools/rest-assured-logo.svg" title="rest-assured" width="70" height="70"/>
+<img src="images/tools/allure-Report-logo.svg" title="allure" width="70" height="70"/>
+<img src="images/tools/IDEA-logo.svg" title="intellij IDEA" width="70" height="70"/>
+<img src="images/tools/selenoid-logo.svg" title="selenoid" width="70" height="70"/>
+<img src="images/tools/git-logo.svg" title="git" width="70" height="70"/>
+<img src="images/tools/github-icon.svg" title="github" width="70" height="70"/>
+<img src="images/tools/jenkins-logo.svg" title="jenkins" width="70" height="70"/>
+<img src="images/tools/postman-icon.svg" title="postman" width="70" height="70"/>
+<img src="images/tools/jira.svg" title="jira" width="70" height="70"/>
+<img src="images/tools/logo-google-android-studio-2.svg" title="android-studio" width="70" height="70"/>
+<img src="images/tools/browserstack.svg" title="browserstack" width="70" height="70"/>  
 </p>
